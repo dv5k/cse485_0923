@@ -1,0 +1,32 @@
+.login-box {
+    display: block;
+    position: relative;
+    border-radius: 8px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.info-box {
+    display: block;
+    text-align: center;
+    position: relative;
+    border-radius: 8px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 300px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.truncate-text {
+    max-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
